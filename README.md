@@ -1,4 +1,4 @@
-# 🚀 Ishwardi Backend
+# 🚀Express Stater Kit
 
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen.svg)](https://nodejs.org/)
