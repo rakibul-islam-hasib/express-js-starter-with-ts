@@ -6,7 +6,7 @@
 [![Express.js](https://img.shields.io/badge/Express.js-5.1-lightgrey.svg)](https://expressjs.com/)
 [![Code Style: Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
-**Ishwardi Backend** is a highly-engineered, industrial-grade Express.js starter kit built with TypeScript. It provides a rock-solid foundation for building scalable, secure, and maintainable RESTful APIs.
+**Express js  Backend stater Kit** is a highly-engineered, industrial-grade Express.js starter kit built with TypeScript. It provides a rock-solid foundation for building scalable, secure, and maintainable RESTful APIs.
 
 ---
 
