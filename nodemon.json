@@ -1,6 +1,7 @@
 {
   "watch": ["src"],
   "ext": "ts,json",
-  "ignore": ["dist", "logs"],
-  "exec": "ts-node -r tsconfig-paths/register ./src/index.ts"
+  "ignore": ["dist", "logs", "node_modules"],
+  "exec": "ts-node -r tsconfig-paths/register ./src/index.ts",
+  "delay": 500
 }

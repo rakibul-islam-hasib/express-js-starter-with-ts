@@ -1,0 +1,7 @@
+node_modules
+dist
+logs
+*.log
+coverage
+.nyc_output
+package-lock.json
